@@ -3,13 +3,13 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 
 :Variables
 REM Variables that can be modified bellow
-set UnrealVersion=4.24
+set UnrealVersion=4.23
 set pFastPreview=GPULightmassIntegration-4.20.2-FastPreview.zip
 set pMedium=GPULightmassIntegration-4.20.2-MediumQuality.zip
 set pUltraHigh=GPULightmassIntegration-4.20.2-UltraHigh.zip
 set pExtreme=GPULightmassIntegration-4.20.2-Extreme.zip
-REM set pUnified=GPULightmass-UE4.24.1.zip
-set pUnified=GPULightmassIntegration-4.24.1-UnifiedSettings.zip
+REM set pUnified=GPULightmass-UE4.23.1.zip
+set pUnified=GPULightmassIntegration-4.23.1-UnifiedSettings.zip
 
 
 REM URLS can be modified
